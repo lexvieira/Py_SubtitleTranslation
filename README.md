@@ -1,2 +1,2 @@
-#Subtitles transation using Google Tranlator API
+# Subtitles transation using Google Tranlator API
 
